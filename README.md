@@ -1,16 +1,24 @@
 # todoey
+Created by: Raouf meghaoui
 
-A new Flutter project.
+### Screenshots
+![image](https://user-images.githubusercontent.com/72553155/200678264-917461ab-0351-4bc2-b106-4a90afa1c434.png)
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/72553155/200678825-7f55914b-d145-4241-a82f-f0d68a210c53.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Description
+ todolist app to keep track of all our tasks.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What we will learn
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Understand what is state and why we need to manage it.
+- Understand the difference between ephemeral (local) state and app state.
+- See the problems with simply relying on setState().
+- Learn about the concept of Prop Drilling.
+- Examine various popular ways of managing app state for Flutter projects.
+- Learn about the List Builder.
+- Use the Flutter BottomSheet Widget.
+- Learn to lift state up to be able to access it from children widgets.
+- Learn about design patterns and why they are useful.
+- Understand how the Provider package works and use it to manage app state.
